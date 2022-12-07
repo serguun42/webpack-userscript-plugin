@@ -53,8 +53,9 @@ Where `pluginOption` is object of type [`WebpackUserscriptPluginOptions`](./type
 
 ### See also
 
-- [Metadata block on greasestop.net](https://wiki.greasespot.net/Metadata_Block)
 - [Tampermonkey documentation](https://www.tampermonkey.net/documentation.php)
+- [Metadata block for Violentmonkey](https://violentmonkey.github.io/api/metadata-block/)
+- [Metadata block on greasespot.net](https://wiki.greasespot.net/Metadata_Block)
 - [webpack-userscript package by MomoCow](https://github.com/momocow/webpack-userscript)
 - [generate-file-webpack-plugin by kflGALORE](https://github.com/kflGALORE/generate-file-webpack-plugin/blob/master/src/index.ts#L24)
 - [workbox by GoogleChrome](https://github.com/GoogleChrome/workbox/blob/v6/packages/workbox-webpack-plugin/src/generate-sw.ts#L110)
